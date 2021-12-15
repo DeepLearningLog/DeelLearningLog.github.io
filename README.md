@@ -1,1 +1,1 @@
-# DeelLearningLog.github.io
+# DeepLearningLog.github.io
